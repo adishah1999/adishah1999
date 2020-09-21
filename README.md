@@ -1,6 +1,9 @@
+## Aditya Shah
+ [![Linkedin account](C:\Users\ADITYA SHAH\Downloads\linkedin_logo.png)](https://www.linkedin.com/in/aditya-shah-59097b192/)
+
 ### Hi there 👋
 
-*How to reach me: [Linkedin account](https://www.linkedin.com/in/aditya-shah-59097b192/)*
+
 **A Data Science and Machine Learning Enthusiast**
 
 **Link to my Machine Learning project:** [Sentimental Analysis of Movie Reviews](https://drive.google.com/drive/u/0/folders/1JLaOzqeIBUPbmf7oO0aooi8bi79KGBfh)
