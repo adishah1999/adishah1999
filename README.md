@@ -8,7 +8,8 @@ I am Aditya Shah. I am a Data Science and Machine Learning Enthusiast. I also ha
 
 **Link to my Machine Learning project:** [Sentimental Analysis of Movie Reviews](https://drive.google.com/drive/u/0/folders/1JLaOzqeIBUPbmf7oO0aooi8bi79KGBfh)
 
-* **How to reach me:** My [Resume link](https://drive.google.com/drive/u/0/folders/1eRYd_mSjUJM1Cc_Sa4hB4XAe59qu_q72) or you can email me directly on [](aidyshah1999@gmail.com)
+* 
+**How to reach me:** My [Resume link](https://drive.google.com/drive/u/0/folders/1eRYd_mSjUJM1Cc_Sa4hB4XAe59qu_q72) or you can email me directly on [My gmail id](aidyshah1999@gmail.com)
 
 
 <!--
