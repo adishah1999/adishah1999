@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+*How to reach me: [Linkedin account](https://www.linkedin.com/in/aditya-shah-59097b192/)*
+**A Data Science and Machine Learning Enthusiast**
+
+**Link to my Machine Learning project:** [Sentimental Analysis of Movie Reviews](https://drive.google.com/drive/u/0/folders/1JLaOzqeIBUPbmf7oO0aooi8bi79KGBfh)
+
+
+
 <!--
 **adishah1999/adishah1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
