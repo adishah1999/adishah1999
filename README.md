@@ -1,5 +1,5 @@
 ## Aditya Shah
- [![Linkedin account](C:\Users\ADITYA SHAH\Downloads\linkedin_logo.png)](https://www.linkedin.com/in/aditya-shah-59097b192/)
+ [Linkedin account](https://www.linkedin.com/in/aditya-shah-59097b192/)
 
 ### Hi there 👋
 
